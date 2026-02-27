@@ -1,126 +1,33 @@
 [
-    {
-        "id": 1,
-        "text": "Eres el amor de mi vida"
-    },
-    {
-        "id": 2,
-        "text": "Estoy muy orgulloso de tí"
-    },
-    {
-        "id": 3,
-        "text": "Agradezco al cielo de tenerte"
-    },
-    {
-        "id": 4,
-        "text": "Espero que hayas bebido agua"
-    },
-    {
-        "id": 5,
-        "text": "Nunca te olvides de mí"
-    },
-    {
-        "id": 6,
-        "text": "Seguro que hoy estás preciosa"
-    },
-    {
-        "id": 7,
-        "text": "Eres mi reina"
-    },
-    {
-        "id": 8,
-        "text": "Ojalá pasemos toda una vida juntos"
-    },
-    {
-        "id": 9,
-        "text": "Casémonos"
-    },
-    {
-        "id": 10,
-        "text": "Quien fuera radiador para calentarte siempre que lo necesites"
-    },
-    {
-        "id": 11,
-        "text": "Eres mi mejor casualidad"
-    },
-    {
-        "id": 12,
-        "text": "Contigo, cada momento es mágico"
-    },
-    {
-        "id": 13,
-        "text": "Eres mi sueño hecho realidad"
-    },
-    {
-        "id": 14,
-        "text": "No necesito mucho, solo a ti"
-    },
-    {
-        "id": 15,
-        "text": "Eres mi hogar, donde sea que estés"
-    },
-    {
-        "id": 16,
-        "text": "Tu sonrisa es mi debilidad"
-    },
-    {
-        "id": 17,
-        "text": "Sin ti, no hay yo"
-    },
-    {
-        "id": 18,
-        "text": "Si sé lo que es el amor, es gracias a ti"
-    },
-    {
-        "id": 19,
-        "text": "Eres la melodía que mi corazón tararea todo el rato"
-    },
-    {
-        "id": 20,
-        "text": "Para siempre a tu lado me parece poco tiempo"
-    },
-    {
-        "id": 21,
-        "text": "Contigo tengo ganas de vivirlo todo"
-    },
-    {
-        "id": 22,
-        "text": "No quiero caminar ni atrás ni adelante de ti, sino siempre a tu lado"
-    },
-    {
-        "id": 23,
-        "text": "Eres la pieza que faltaba en mi rompecabezas"
-    },
-    {
-        "id": 24,
-        "text": "Hay partes de mí que solo existen cuando estoy contigo"
-    },
-    {
-        "id": 25,
-        "text": "Cualquiera en su sano juicio se habría vuelto loco por ti"
-    },
-    {
-        "id": 26,
-        "text": "Cada parte de mí ama cada parte de ti"
-    },
-    {
-        "id": 27,
-        "text": "Cuando estoy a solas contigo, me siento libre otra vez"
-    },
-    {
-        "id": 28,
-        "text": "Llevo tu sonrisa como bandera"
-    },
-    {
-        "id": 29,
-        "text": "Somos una casualidad llena de intención"
-    },
-    {
-        "id": 30,
-        "text": "Si sé lo que es el amor, es gracias a ti"
-    },
-    {
-        "id": 31,
-        "text": "Que juntos cumplamos más sueños que años"
-    }
+  {"id": 1, "text": "Eres el verso que mi alma recita en silencio"},
+  {"id": 2, "text": "Tu nombre florece dentro de mí como primavera"},
+  {"id": 3, "text": "Cada latido tuyo dibuja un mapa en mi pecho"},
+  {"id": 4, "text": "Me pierdo y me encuentro en la curva de tu sonrisa"},
+  {"id": 5, "text": "Eres luna que calma mis noches inquietas"},
+  {"id": 6, "text": "Tus labios guardan el secreto de mi calma"},
+  {"id": 7, "text": "En tus ojos habitan todas mis historias"},
+  {"id": 8, "text": "Quisiera escribir tu nombre en cada amanecer"},
+  {"id": 9, "text": "Eres la brisa que ordena mis pensamientos"},
+  {"id": 10, "text": "Besa mi frente y detén el tiempo por un instante"},
+  {"id": 11, "text": "Tu voz siembra constelaciones en mi voz"},
+  {"id": 12, "text": "Cierro los ojos y me levanta tu recuerdo"},
+  {"id": 13, "text": "Eres poema largo que nunca quiero terminar"},
+  {"id": 14, "text": "Nuestros silencios comparten la misma melodía"},
+  {"id": 15, "text": "Déjame ser la calma que acompaña tus tormentas"},
+  {"id": 16, "text": "Tu piel cuenta historias que quiero leer siempre"},
+  {"id": 17, "text": "Eres la certeza que habita mis dudas"},
+  {"id": 18, "text": "Caminar contigo es convertir el mundo en verso"},
+  {"id": 19, "text": "Guardo tus besos como quien cuida un tesoro"},
+  {"id": 20, "text": "Eres el faro que guía mis noches"},
+  {"id": 21, "text": "Si el universo tuviera un latido, sería el tuyo"},
+  {"id": 22, "text": "Tu risa derrama luz sobre mis días"},
+  {"id": 23, "text": "Quiero anclar mis sueños en tu nombre"},
+  {"id": 24, "text": "Eres el misterio que me enseña lo infinito"},
+  {"id": 25, "text": "Tus manos crean hogar donde sea"},
+  {"id": 26, "text": "Amarte es aprender el idioma de lo eterno"},
+  {"id": 27, "text": "No temo al tiempo si él nos regala más instantes"},
+  {"id": 28, "text": "Eres la tinta con la que escribo mis mejores días"},
+  {"id": 29, "text": "Entre tus brazos se disuelven mis miedos"},
+  {"id": 30, "text": "Que mi vida sea el eco de tu felicidad"},
+  {"id": 31, "text": "Que cada año nos encuentre más cerca del alma"}
 ]
